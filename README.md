@@ -1,6 +1,6 @@
 # B Ricey
 
-I'm a developer in all aspects of the word: making games, robots, websites, CLI apps, and more! In addition, I have a thriving youtube channel with countless in depth and informative Roblox Scripting tutorials that have reached over 2 million viewers and over 14 thousand subscribers.
+I'm a developer in all aspects of the word: making games, robots, websites, CLI apps, and more! In addition, I have a thriving youtube channel with countless in depth and informative Roblox Scripting tutorials that have reached over 2 million viewers and over 16 thousand subscribers.
 
 
 <p align="left">
