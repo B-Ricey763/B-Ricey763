@@ -1,6 +1,14 @@
-# B Ricey
+```
+██████  ██████  ██  ██████ ███████ ██    ██ 
+██   ██ ██   ██ ██ ██      ██       ██  ██  
+██████  ██████  ██ ██      █████     ████   
+██   ██ ██   ██ ██ ██      ██         ██    
+██████  ██   ██ ██  ██████ ███████    ██
+```
 
-I'm a developer in all aspects of the word: making games, robots, websites, CLI apps, and more! In addition, I have a thriving youtube channel with countless in depth and informative Roblox Scripting tutorials that have reached over 2 million viewers and over 16 thousand subscribers.
+I'm a CS student at GT learning low level software dev but getting sidetracked making CRUD apps and GPT wrappers. When I have time I also make Roblox YouTube videos (not gaming but scripting tutorials lol). I also have a 3D portfolio website at https://brycehanna.dev (please please check it out it took way too much time to make). 
+
+Also I use neovim check out my dotfiles 😎
 
 
 <p align="left">
