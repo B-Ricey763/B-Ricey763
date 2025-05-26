@@ -6,7 +6,7 @@
 ██████  ██   ██ ██  ██████ ███████    ██
 ```
 
-I'm a CS student at GT learning low level software dev but getting sidetracked making CRUD apps and GPT wrappers. When I have time I also make Roblox YouTube videos (not gaming but scripting tutorials lol). I also have a 3D portfolio website at https://brycehanna.dev (please please check it out it took way too much time to make). 
+I'm a CS student at GT learning low level software dev but always seem to be making CRUD apps, GPT wrappers, and python types. When I have time I also make Roblox YouTube videos (not gaming but scripting tutorials lol). I also have a 3D portfolio website at https://brycehanna.dev (please please check it out it took way too much time to make). 
 
 Also I use neovim check out my dotfiles 😎
 
