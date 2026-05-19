@@ -5,8 +5,9 @@
 ██   ██ ██   ██ ██ ██      ██         ██    
 ██████  ██   ██ ██  ██████ ███████    ██
 ```
+CS Student at Georgia Tech, made Roblox games (and other video games) back in the day. Currently working on random stuff (web apps sometimes, OS/systems related stuff other times, etc.)
 
-I'm a CS student at GT learning low level software dev but always seem to be making CRUD apps, GPT wrappers, and python types. When I have time I also make Roblox YouTube videos (not gaming but scripting tutorials lol). I also have a 3D portfolio website at https://brycehanna.dev (please please check it out it took way too much time to make). 
+Website: https://brycehanna.dev
 
 Also I use neovim check out my dotfiles 😎
 
